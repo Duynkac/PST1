@@ -1,0 +1,6 @@
+/Users/duynguyen/Projects/PST1/PST1/obj/x86/Debug/PST1.csprojAssemblyReference.cache
+/Users/duynguyen/Projects/PST1/PST1/obj/x86/Debug/PST1.csproj.CoreCompileInputs.cache
+/Users/duynguyen/Projects/PST1/PST1/bin/Debug/PST1.exe
+/Users/duynguyen/Projects/PST1/PST1/bin/Debug/PST1.pdb
+/Users/duynguyen/Projects/PST1/PST1/obj/x86/Debug/PST1.exe
+/Users/duynguyen/Projects/PST1/PST1/obj/x86/Debug/PST1.pdb
